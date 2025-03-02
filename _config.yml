@@ -21,7 +21,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "An amazing website 2."
 URL                      : "https://tech-viking-1.github.io/x" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/x" # the subpath of your site, e.g. "/blog"
 repository               : "tech-viking-1/x" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
